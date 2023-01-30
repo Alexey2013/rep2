@@ -23,7 +23,6 @@ void objects();
 void moving();
 
 int main() {
-    system("color 07");
     char answer;
     cout << "Want to play? (Y/N):";
     cin >> answer;
